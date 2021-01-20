@@ -1,0 +1,16 @@
+#logout-button {
+    color: white;
+    background-color: #16163f;
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+#delete-product-button {
+    color: white;
+    background-color: #145214;
+    border: 1px solid black;
+}
+#logout-button-holder{
+    display: flex;
+    flex-direction: column;
+}
